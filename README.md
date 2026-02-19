@@ -26,8 +26,8 @@ This project consists of creating a simple shell. It serves as a practical intro
 ## HOW TO USE
 #### 1º - Clone the repository
 ```bash
-cd mini_hell
 git clone https://github.com/realgetOff/mini_hell.git
+cd mini_hell
 ```
 
 #### 2º - Go to the root of the project and run the following command:

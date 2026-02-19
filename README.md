@@ -23,6 +23,8 @@
 ## ABOUT
 This project consists of creating a simple shell. It serves as a practical introduction to the world of processes and file descriptors. The goal is to develop a program capable of reading commands, parsing them, and executing them, mimicking the basic behavior of Bash.
 
+- [Subject](https://github.com/realgetOff/mini_hell/blob/main/en_subject.pdf) `PDF`
+
 ## HOW TO USE
 #### 1º - Clone the repository
 ```bash

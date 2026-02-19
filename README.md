@@ -37,7 +37,7 @@ make
 ```
 
 #### 3º - Launch the shell as follows:
-
+> #### If you wanna test leaks use the readline vsupp, since the library is leaking (--suppressions=vsupp)
 ```bash
 ./mini_hell
 ```

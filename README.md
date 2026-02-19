@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/realgetOff/main/blob/main/Header/minishell.png">
-</p>
+![minishell](https://raw.githubusercontent.com/realgetOff/main/1af45b1706ac9c318c824c7e4c1a2a5a7abd1055/Header/minishell.png)
 
 <p align="center">
 	<img src="https://img.shields.io/badge/status-finished-cyan"/>

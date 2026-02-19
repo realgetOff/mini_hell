@@ -18,7 +18,7 @@ void	free_arrayarray(void **arrayarray)
 
 	i = 0;
 	while (arrayarray[i])
-		free(arrayarray[i++])
+		free(arrayarray[i++]);
 	free(arrayarray);
 }
 

@@ -1,5 +1,5 @@
 CC = clang
-NAME = minishell
+NAME = mini_hell
 SRCS = main/mini_hell.c builtins/cd/cd.c builtins/echo/echo.c builtins/env/env.c \
 builtins/export/export.c builtins/pwd/pwd.c builtins/unset/unset.c history/history.c exec/signal.c init/init_data.c exec/prompt.c\
 exec/exec_builtins.c parsing/arg_split.c parsing/tokenisation.c utils/env_utils.c \
